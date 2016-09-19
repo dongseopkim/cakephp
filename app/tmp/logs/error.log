@@ -1,0 +1,221 @@
+2016-09-19 18:37:53 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:37:54 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:37:56 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:37:57 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:23 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:25 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:26 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:26 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:27 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:27 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:27 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:27 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-09-19 18:38:30 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /
+Stack Trace:
+#0 /vagrant/cakephp/lib/Cake/Core/App.php(227): CakePlugin::path('DebugKit')
+#1 /vagrant/cakephp/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DebugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /vagrant/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#6 /vagrant/cakephp/lib/Cake/Controller/Controller.php(644): ComponentCollection->init(Object(PagesController))
+#7 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#8 /vagrant/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /vagrant/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
